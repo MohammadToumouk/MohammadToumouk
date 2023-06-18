@@ -1,4 +1,4 @@
-![Banner]([https://example.com/path/to/your/banner-image.png](https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif))
+![Banner](https://i.pinimg.com/originals/01/d0/53/01d0532a11e607405263494ad1f6b506.jpg)
 
 
 ### Tech Enthusiast & Visionary Explorer 🚀💡
