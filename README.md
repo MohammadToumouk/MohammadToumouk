@@ -18,7 +18,7 @@ The Tools of My Trade:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtoumouk&show_icons=true&locale=en&layout=compact" alt="mohammadtoumouk" /></p>
 
-Let's connect and embark on this incredible journey together:
+Let's connect :
 
 
 📧 : mohamedtomoq5@gmail.com
