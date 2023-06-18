@@ -1,3 +1,6 @@
+![Banner]([https://example.com/path/to/your/banner-image.png](https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif))
+
+
 ### Tech Enthusiast & Visionary Explorer 🚀💡
 
 Tech Stack: Java, JavaScript, C#, Node.js, HTML, CSS, Bootstrap, MUI, Tailwind CSS, MongoDB, AWS (Upcoming)
