@@ -8,9 +8,9 @@ Hello! 👋 I'm Mohammad Toumouk, a tech enthusiast and visionary explorer. Join
 
 The Tools of My Trade:
 
-🛠️ Mastery in the Arts: Java, JavaScript, C#, HTML, CSS
-🌌 Elements of Innovation: Node.js, Bootstrap, MUI, Tailwind CSS
-🔧 Mysterious Databases: MongoDB
+🛠️ Mastery in the Arts: Java, JavaScript, C#, HTML, CSS </br>
+🌌 Elements of Innovation: Node.js, Bootstrap, MUI, Tailwind CSS</br>
+🔧 Mysterious Databases: MongoDB</br>
 🌟 Secrets of the Cloud: AWS (Upcoming)
 
 <h3 align="left">Languages and Tools:</h3>
