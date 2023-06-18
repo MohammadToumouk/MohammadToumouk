@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/19/16/6b/19166bcdbb49fc886d01481e0fa9b196.gif)
+![Banner](https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif)
 
 
 ### Tech Enthusiast & Visionary Explorer 🚀💡
