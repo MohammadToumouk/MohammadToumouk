@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/01/d0/53/01d0532a11e607405263494ad1f6b506.jpg)
+![Banner](https://i.pinimg.com/originals/19/16/6b/19166bcdbb49fc886d01481e0fa9b196.gif)
 
 
 ### Tech Enthusiast & Visionary Explorer 🚀💡
