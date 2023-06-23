@@ -1,4 +1,6 @@
-![Banner align="center"](https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif)
+<div align="center">
+  <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" alt="Banner">
+</div>
 
 
 ### Tech Enthusiast & Visionary Explorer 🚀💡
