@@ -1,4 +1,4 @@
-![Banner](https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif)
+![Banner align="center"](https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif)
 
 
 ### Tech Enthusiast & Visionary Explorer 🚀💡
